@@ -571,12 +571,6 @@ export const tools: itemTypes = [
 ];
 
 export const toolRecipes: recipe = [
-  {
-    debug: [
-      { material: "Honey", value: 99999999999999, image: "Honey.png" },
-    ]
-  },    
-  {
     petal: [
       { material: "Honey", value: 1500000000, image: "Honey.png" },
       {
